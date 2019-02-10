@@ -1,0 +1,12 @@
+eat;breakfast;coffee 1
+eat;breakfast;bred 1
+wash 1
+work;dev 3
+work;community;vertx 0.5
+work;community;web 0.5
+eat;lunch 2
+work;bugs 2
+work;community 2
+eat;dinner 1
+fun;movie 2
+fun;book 1
